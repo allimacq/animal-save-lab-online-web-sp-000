@@ -10,5 +10,8 @@ html {
 
 /* Write your solution here */
 @media only screen and (mix-width: 600px) {
-  #ostrich { top: -50px; }
+  #ostrich { 
+    top: -50px; 
+    
+  }
 }
